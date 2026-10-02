@@ -1,0 +1,636 @@
+Uri: https://by.memonika.com/comments/feed/
+File Name: C:\Downloaded Web Sites\by.memonika.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://by.memonika.com/demo-white-lily/?post_id=71809&comments=9&get=150&order=DESC
+File Name: C:\Downloaded Web Sites\by.memonika.com\demo-white-lily\index-1.htm
+Content Type: text/html
+
+Uri: https://by.memonika.com/demo-white-lily/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAUqk5dleHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABpy-dXT2Mob03E30r2Uc68zy6L-0Y-BmcT3MaSoLhBY78cax4pCQHZHpGQyp6_aem_VdZ9w4pVUgg5XjOQudVtpA
+File Name: C:\Downloaded Web Sites\by.memonika.com\demo-white-lily\index.htm
+Content Type: text/html
+
+Uri: https://by.memonika.com/demo-white-lily/feed/
+File Name: C:\Downloaded Web Sites\by.memonika.com\demo-white-lily\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://by.memonika.com/feed/
+File Name: C:\Downloaded Web Sites\by.memonika.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor-pro\assets\css\modules\sticky.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor-pro/assets/css/widget-countdown.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor-pro\assets\css\widget-countdown.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor-pro/assets/css/widget-lottie.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor-pro\assets\css\widget-lottie.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor-pro\assets\lib\lottie\lottie.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\css\conditionals\apple-webkit.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\css\conditionals\shapes.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\css\widget-image-box.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\css\widget-social-icons.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\css\widget-spacer.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/css/widget-text-path.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\css\widget-text-path.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\lib\animations\styles\fadeIn.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInDown.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInLeft.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInRight.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInUp.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\lib\animations\styles\zoomIn.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.28.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.9.9
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.9.9
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.9.9
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.9.9
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/eltemplate/admin/js/license.min.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\eltemplate\admin\js\license.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/eltemplate/includes/widgets/css/frontend.css?ver=1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\eltemplate\includes\widgets\css\frontend.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/eltemplate/includes/widgets/css/style.css?ver=1.0
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\eltemplate\includes\widgets\css\style.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/eltemplate/includes/widgets/css/widget-icon-box.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\eltemplate\includes\widgets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/eltemplate/includes/widgets/css/widget-image-box.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\eltemplate\includes\widgets\css\widget-image-box.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/eltemplate/includes/widgets/css/widget-spacer.css?ver=1.0
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\eltemplate\includes\widgets\css\widget-spacer.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/eltemplate/includes/widgets/css/widget-video.css?ver=1.0
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\eltemplate\includes\widgets\css\widget-video.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/eltemplate/includes/widgets/js/script.js?ver=1.0
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\eltemplate\includes\widgets\js\script.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/eltemplate/includes/widgets/js/widget-video.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\eltemplate\includes\widgets\js\widget-video.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/eltemplate/public/css/eltemplate-public.css?ver=2.0.0
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\eltemplate\public\css\eltemplate-public.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/eltemplate/public/js/eltemplate-public.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\eltemplate\public\js\eltemplate-public.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js?ver=1.7.9
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\page-scroll-to-id\js\page-scroll-to-id.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/addons/comment-kit2/css/cui_style.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\css\cui_style.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/addons/comment-kit2/js/cui_script.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\js\cui_script.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/addons/comment-kit2/js/libs/autosize.min.js?ver=1.14
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\js\libs\autosize.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/addons/comment-kit2/js/libs/jquery.jPages.min.js?ver=0.7
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\js\libs\jquery.jPages.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/addons/comment-kit2/js/libs/jquery.placeholder.min.js?ver=2.0.7
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\js\libs\jquery.placeholder.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/addons/comment-kit2/js/libs/jquery.textareaCounter.js?ver=2.0
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\js\libs\jquery.textareaCounter.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/css/exad-styles.min.css?ver=6.8.3
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\css\exad-styles.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/css/guest-book.css?ver=3.2.1.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\css\guest-book.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/css/modules/bdt-uikit.css?ver=3.15.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\css\modules\bdt-uikit.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/css/modules/ep-font.css?ver=3.2.1.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\css\modules\ep-font.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/css/modules/ep-helper.css?ver=3.2.1.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\css\modules\ep-helper.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/css/modules/ep-timeline.css?ver=3.2.1.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\css\modules\ep-timeline.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/css/new-icon.min.css?ver=3.2.1.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\css\new-icon.min.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/css/wdp.css?ver=3.2.1.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\css\wdp.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/js/exad-scripts.min.js?ver=3.2.1.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\js\exad-scripts.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/js/guest-form.js?ver=3.2.1.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\js\guest-form.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/js/license.min.js?ver=3.2.1.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\js\license.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/js/modules/bdt-uikit.js?ver=3.15.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\js\modules\bdt-uikit.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/js/modules/ep-timeline.js?ver=3.2.1.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\js\modules\ep-timeline.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/js/modules/timeline.min.js
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\js\modules\timeline.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/js/qr-code.js
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\js\qr-code.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/js/wdp-swiper.min.js
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\js\wdp-swiper.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/plugins/weddingpress/assets/js/wdp.min.js?ver=3.2.1.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\plugins\weddingpress\assets\js\wdp.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\themes\hello-elementor\assets\css\header-footer.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\themes\hello-elementor\assets\css\reset.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\themes\hello-elementor\assets\css\theme.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.4
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\themes\hello-elementor\assets\js\hello-frontend.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/2Flower-1-166x300.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\2Flower-1-166x300.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/2Flower-1.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\2Flower-1.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Adab-Walimah-Coklat-1024x1536.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Adab-Walimah-Coklat-1024x1536.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Adab-Walimah-Coklat-1365x2048.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Adab-Walimah-Coklat-1365x2048.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Adab-Walimah-Coklat-200x300.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Adab-Walimah-Coklat-200x300.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Adab-Walimah-Coklat-682x1024.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Adab-Walimah-Coklat-682x1024.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Adab-Walimah-Coklat-768x1153.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Adab-Walimah-Coklat-768x1153.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Adab-Walimah-Coklat.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Adab-Walimah-Coklat.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Calendar-icon-1.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Calendar-icon-1.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/cropped-Logo-Memonika-180x180.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\cropped-Logo-Memonika-180x180.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/cropped-Logo-Memonika-192x192.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\cropped-Logo-Memonika-192x192.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/cropped-Logo-Memonika-32x32.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\cropped-Logo-Memonika-32x32.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Flower-1-150x150.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Flower-1-150x150.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Flower-1-300x300.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Flower-1-300x300.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Flower-1.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Flower-1.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Flower-vertikal-1-184x300.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Flower-vertikal-1-184x300.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Flower-vertikal-1.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Flower-vertikal-1.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/horison-Flower-1-300x206.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\horison-Flower-1-300x206.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/horison-Flower-1.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\horison-Flower-1.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Location-Icon-1.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Location-Icon-1.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/logo-bcapng-32645-2-1-1024x318.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\logo-bcapng-32645-2-1-1024x318.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/logo-bcapng-32645-2-1-300x93.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\logo-bcapng-32645-2-1-300x93.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/logo-bcapng-32645-2-1-768x238.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\logo-bcapng-32645-2-1-768x238.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/logo-bcapng-32645-2-1.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\logo-bcapng-32645-2-1.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/LOGO-MANDIRI-1-3-300x113.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\LOGO-MANDIRI-1-3-300x113.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/LOGO-MANDIRI-1-3.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\LOGO-MANDIRI-1-3.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Logo-Memonika-bulat-150x150.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Logo-Memonika-bulat-150x150.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Logo-Memonika-bulat-300x300.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Logo-Memonika-bulat-300x300.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Logo-Memonika-bulat-768x768.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Logo-Memonika-bulat-768x768.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Logo-Memonika-bulat.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Logo-Memonika-bulat.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Shape-background-169x300.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Shape-background-169x300.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Shape-background-576x1024.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Shape-background-576x1024.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Shape-background-768x1365.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Shape-background-768x1365.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Shape-background-864x1536.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Shape-background-864x1536.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/08/Shape-background.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\08\Shape-background.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/12/Bismillah-warna-hitam-1024x269.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\12\Bismillah-warna-hitam-1024x269.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/12/Bismillah-warna-hitam-1536x403.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\12\Bismillah-warna-hitam-1536x403.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/12/Bismillah-warna-hitam-300x79.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\12\Bismillah-warna-hitam-300x79.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/12/Bismillah-warna-hitam-768x202.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\12\Bismillah-warna-hitam-768x202.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2025/12/Bismillah-warna-hitam.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2025\12\Bismillah-warna-hitam.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2026/02/Orchestral-Soft-Piano-Wedding-Music-Romantic-Instrumentals-WedSoundRecords.mp3
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2026\02\Orchestral-Soft-Piano-Wedding-Music-Romantic-Instrumentals-WedSoundRecords.mp3
+Content Type: audio/mpeg
+
+Uri: https://by.memonika.com/wp-content/uploads/2026/03/DRESS-01-CPP-1024x1024.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2026\03\DRESS-01-CPP-1024x1024.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2026/03/DRESS-01-CPP-150x150.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2026\03\DRESS-01-CPP-150x150.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2026/03/DRESS-01-CPP-1536x1536.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2026\03\DRESS-01-CPP-1536x1536.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2026/03/DRESS-01-CPP-300x300.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2026\03\DRESS-01-CPP-300x300.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2026/03/DRESS-01-CPP-768x768.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2026\03\DRESS-01-CPP-768x768.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2026/03/DRESS-01-CPP.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2026\03\DRESS-01-CPP.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2026/09/DRESS-01-CPW-revisi-150x150.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2026\09\DRESS-01-CPW-revisi-150x150.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2026/09/DRESS-01-CPW-revisi-300x300.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2026\09\DRESS-01-CPW-revisi-300x300.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2026/09/DRESS-01-CPW-revisi-768x768.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2026\09\DRESS-01-CPW-revisi-768x768.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/2026/09/DRESS-01-CPW-revisi.png
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\2026\09\DRESS-01-CPW-revisi.png
+Content Type: image/png
+
+Uri: https://by.memonika.com/wp-content/uploads/elementor/css/post-13.css?ver=1786116391
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\elementor\css\post-13.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/uploads/elementor/css/post-71809.css?ver=1790741412
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\elementor\css\post-71809.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/uploads/elementor/google-fonts/css/amiri.css?ver=1755143367
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\elementor\google-fonts\css\amiri.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/uploads/elementor/google-fonts/css/crimsonpro.css?ver=1755143812
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\elementor\google-fonts\css\crimsonpro.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/uploads/elementor/google-fonts/css/lora.css?ver=1755143119
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\elementor\google-fonts\css\lora.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/uploads/elementor/google-fonts/css/montecarlo.css?ver=1760331172
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\elementor\google-fonts\css\montecarlo.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/uploads/elementor/google-fonts/css/opensans.css?ver=1755143123
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\elementor\google-fonts\css\opensans.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/uploads/elementor/google-fonts/css/orienta.css?ver=1755143812
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\elementor\google-fonts\css\orienta.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/uploads/elementor/google-fonts/css/parisienne.css?ver=1755143121
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\elementor\google-fonts\css\parisienne.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/uploads/elementor/google-fonts/css/pinyonscript.css?ver=1755143365
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\elementor\google-fonts\css\pinyonscript.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1755143077
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\elementor\google-fonts\css\poppins.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1754471666
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\elementor\google-fonts\css\roboto.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1754471667
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\elementor\google-fonts\css\robotoslab.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/uploads/elementor/google-fonts/css/rougescript.css?ver=1775201296
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\elementor\google-fonts\css\rougescript.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-content/uploads/useanyfont/uaf.css?ver=1783251217
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-content\uploads\useanyfont\uaf.css
+Content Type: text/css
+
+Uri: https://by.memonika.com/wp-includes/js/dist/element.min.js?ver=a4eeeadd23c0d7ab1d2d
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-includes\js\dist\element.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-includes/js/dist/escape-html.min.js?ver=6561a406d2d232a6fbd2
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-includes\js\dist\escape-html.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.3.1.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-includes\js\dist\vendor\react.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://by.memonika.com/wp-json/
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://by.memonika.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fby.memonika.com%2Fdemo-white-lily%2F
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://by.memonika.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fby.memonika.com%2Fdemo-white-lily%2F&format=xml
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://by.memonika.com/wp-json/wp/v2/pages/71809
+File Name: C:\Downloaded Web Sites\by.memonika.com\wp-json\wp\v2\pages\71809
+Content Type: application/json
+
+Uri: https://by.memonika.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\by.memonika.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js
+File Name: C:\Downloaded Web Sites\by.memonika.com\ajax\libs\xlsx\0.17.0\xlsx.full.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/qr-code-styling@1.5.0/lib/qr-code-styling.js
+File Name: C:\Downloaded Web Sites\by.memonika.com\qr-code-styling@1.5.0\lib\qr-code-styling.js
+Content Type: text/javascript
+
